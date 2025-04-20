@@ -1,4 +1,4 @@
-# Welcome to Komiko 👋
+# AI Anime & Comics Generator | Create Manga, Webtoon and Animations with AI
 
 [**Komiko**](https://komiko.app) is your one-stop AI creation platform to create comics, manhwa, manga, and anime with AI
 
@@ -112,3 +112,9 @@ Make videos smoother by inserting extra frames to increase the frame rate.
 Transform your ideas into amazing comics and animations with Komiko AI now
 
 Our Notion site: [Komiko Notion Site](https://komiko-app.notion.site/)
+
+Our Evernote site: [Komiko Evernote Site](https://lite.evernote.com/note/7798c74d-ca6d-784c-00fd-9791431444ab)
+
+Contact founder: [Sophia H](https://cal.com/sophia-h)
+
+[Carbon Removal](https://climate.stripe.com/fLMZWq)
