@@ -106,6 +106,10 @@ Create smooth transitions between two images through frame interpolation.
 
 Make videos smoother by inserting extra frames to increase the frame rate.
 
+[**Sketch Simplification**](https://komiko.app/sketch_simplification)
+
+Transform your complex sketches into clean, simplified line art with AI.
+
 
 ### Unleash your creativity
 
