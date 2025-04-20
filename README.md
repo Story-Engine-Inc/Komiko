@@ -121,4 +121,6 @@ Our Evernote site: [Komiko Evernote Site](https://lite.evernote.com/note/7798c74
 
 Contact founder: [Sophia H](https://cal.com/sophia-h)
 
+Our Socials: [Komiko Linktree](https://linktr.ee/KomikoAI)
+
 [Carbon Removal](https://climate.stripe.com/fLMZWq)
