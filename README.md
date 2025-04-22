@@ -115,7 +115,7 @@ Transform your complex sketches into clean, simplified line art with AI.
 
 Transform your ideas into amazing comics and animations with Komiko AI now
 
-Our Notion site: [Komiko Notion Site](https://komiko-app.notion.site/)
+Our Notion site: [Komiko Notion Site](https://www.notion.so/azurevision8/Komiko-AI-Anime-Comics-Generator-Create-Manga-Webtoon-and-Animations-with-AI-1ca4d853a19f80e89b35de91aef89b91?pvs=4)
 
 Our Evernote site: [Komiko Evernote Site](https://lite.evernote.com/note/7798c74d-ca6d-784c-00fd-9791431444ab)
 
