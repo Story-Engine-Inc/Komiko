@@ -1,4 +1,4 @@
-# AI Anime & Comics Generator | Create Manga, Webtoon and Animations with AI
+# Komiko - AI Anime & Comics Generator | Create Manga, Webtoon and Animations with AI
 
 [**Komiko**](https://komiko.app) is your one-stop AI creation platform to create comics, manhwa, manga, and anime with AI
 
